@@ -1,14 +1,11 @@
-# Awesome-GameDevDump
-Inspired by awesome lists, my personal findings (plus other's suggestions) for a massive dump
+Here’s a list of things I find really useful, be it for learning or sharpening my skills, and inspiring to improve each day. 
 
-###Copy/Paste from https://www.facebook.com/lsolrac2/posts/1330484373663037?
-
-[Game Dev/Deg Stuff]I apologize for the Spam, I apologize f.or this long post. But Please take your time and read it, there is an amazing amount of things I'd like you guys to see, be a student, grad, or professor. The reason of this share is for you guys to take and to spread to those you think they might like. Enjoy the list and hope you find something useful.
-
-###[GDC Section] -- Unsorted
-* 5 pillars & pitfalls for indie games - https://www.youtube.com/watch?v=gf8TfqD_fFk&t=1575s
+###Youtube And GDC Documentaries
+* 5 Problems Developing Talent -https://www.youtube.com/watch?v=VlpKKo-_cp0
+* How to quickly improve your art - https://www.youtube.com/watch?v=orgVs2csqbo
+* 5 Pillars & Pitfalls for Indie games - https://www.youtube.com/watch?v=gf8TfqD_fFk&t=1575s
 * Killer Portfolio or Portfolio Killer - https://www.youtube.com/watch?v=0RcYAwP3YJ8&t=17s
-* Healthy Habis of a successful Game maker - https://www.youtube.com/watch?v=0eNbyZ6Y7xA&t=4s
+* Healthy Habits of a successful Game maker - https://www.youtube.com/watch?v=0eNbyZ6Y7xA&t=4s
 * 101 Laws for Indie Devs - https://www.youtube.com/watch?v=8eAW-7Js7NA
 * Simplest AI Tricks - https://www.youtube.com/watch?v=iVBCBcEANBc
 * Designing Awesome AI - https://www.youtube.com/watch?v=1xWg54mdQos
@@ -27,31 +24,31 @@ Inspired by awesome lists, my personal findings (plus other's suggestions) for a
 * Meaningful Choice in Level Design - https://www.youtube.com/watch?v=BEF4GVNzkUw
 * Paper Prototype for Narrative Design - https://www.youtube.com/watch?v=taxcb_5lEI8
 * Build better Apocalypse - https://www.youtube.com/watch?v=wrB1fZ7v17c
+* Home of Expectation vs Reality - https://www.youtube.com/channel/UChj0w0duKtp7SDd_X9CNptw
 
-###[General Links] - Get Social, Learning, Teaching, publishing & more
-* https://www.reddit.com/r/gamedev
-* https://www.reddit.com/r/TrueGameDev
-* https://www.reddit.com/r/gamedevscreens
-* https://www.reddit.com/r/devblogs
-* https://www.reddit.com/r/gamedevclassifieds
-* https://www.reddit.com/r/INAT
-* https://www.reddit.com/r/tabletopgamedesign
-* https://www.reddit.com/r/ludology
-* https://www.reddit.com/r/themakingofgames
-* https://www.reddit.com/r/indiegaming
-* http://www.ludust.com/
-* http://www.teamups.net/
-* http://www.reddit.com/r/LoGC/
-* https://www.reddit.com/r/testimonials
-* https://www.reddit.com/r/LearnProgramming
-* https://www.reddit.com/r/PlayMyGame
-* https://www.reddit.com/r/IndieGames
-* https://www.reddit.com/r/LevelDesign
-* https://www.reddit.com/r/GameJams
-* http://www.gameconfs.com/
-* http://compohub.net/
-* http://forums.tigsource.com/
-* http://indiedb.com/
+##General Links
+###Reddit Specific
+* Game Dev 
+ * https://www.reddit.com/r/gamedev
+ * https://www.reddit.com/r/TrueGameDev
+ * https://www.reddit.com/r/gamedevscreens
+ * https://www.reddit.com/r/devblogs
+ * https://www.reddit.com/r/gamedevclassifieds
+ * https://www.reddit.com/r/INAT
+ * https://www.reddit.com/r/IndieGames
+ * https://www.reddit.com/r/LevelDesign
+ * https://www.reddit.com/r/GameJams
+ * https://www.reddit.com/r/LearnProgramming
+ * https://www.reddit.com/r/PlayMyGame
+* Other Resources
+ * https://www.reddit.com/r/tabletopgamedesign
+ * https://www.reddit.com/r/ludology
+ * https://www.reddit.com/r/themakingofgames
+ * https://www.reddit.com/r/indiegaming
+ * https://www.reddit.com/r/testimonials
+ * http://www.reddit.com/r/LoGC/
+ 
+###Github ‘Awesome’ lists - Extra goods
 * https://github.com/sindresorhus/awesome
 * https://github.com/phillipadsmith/awesome-github
 * https://github.com/ellisonleao/magictools
@@ -60,14 +57,25 @@ Inspired by awesome lists, my personal findings (plus other's suggestions) for a
 * https://github.com/felipebueno/awesome-PICO-8
 * https://github.com/leereilly/games
 
-####IMPORTANT PLACES
-http://itch.io - Indie Game Steam-like place (also great for portfolio)
-http://itch.io/jams - GameJams
-https://www.linkedin.com/
-https://gamxin.com/ < HIGHLY RECOMENDED (new, LinkedIn for Game Industry)
+###Places you see
+* http://www.gameconfs.com/
+* http://compohub.net/
+* http://forums.tigsource.com/
+* http://indiedb.com/
+* http://www.ludust.com/
+* http://www.teamups.net/
+* http://www.gamasutra.com
+* https://www.reddit.com/r/gamedev/wiki/index
+* http://www.pixelprospector.com/indie-resources/ - Highly Recomended
 
+###Place you SHOULD be 
+* http://WayUp.com - LinkedIn for students[?]
+* http://itch.io - Indie Game Steam-like place (also great for portfolio)
+* http://itch.io/jams - GameJams
+* https://www.linkedin.com/
+* https://gamxin.com/ - HIGHLY RECOMENDED (new, LinkedIn for Game Industry)
 
-###Learn Beyond - Online Courses and stuff
+###Extra Education
 * StackSkills
  * https://store.destructoid.com/sales/game-developer-bundle-3d-and-unity
  * https://store.destructoid.com/sales/pay-what-you-want-2016-zero-to-hero-game-dev-bundle
@@ -83,26 +91,21 @@ https://gamxin.com/ < HIGHLY RECOMENDED (new, LinkedIn for Game Industry)
  * https://www.udemy.com/learn-complete-web-development-from-scratch/
  * https://www.udemy.com/learn-to-compose-video-game-music-in-fl-studio-in-1-hour/
  * https://www.udemy.com/vrcourse/
+* Other Sites
+ * http://www.schoolism.com/
+ * http://coursera.com/
 
-###Extras - Doesn't really matter but could be useful
-* https://twitter.com/solazdev/following - people to follow
-* http://blender.org - Atlernate 3D Suite (free and FOSS)
-
-###Free Open souce Alternatives
-* Blender - 3DS Max/Maya/Modo/AfterEffects
-* GIMP - Photoshop/CorelPaint
-* Krita - PaintTool SAI
-* Inkscape - Illustrator
-* Atom/Sublime  - VisualStudio/Dreamweaver
-* Linux Mint - Windows
-* Ubuntu Studio - Mac(?)/Windows
-
-###Tips - To Get you started
+###Tips To Get Started
 * Explore one thing a time
-  * From Most Intresting
-  * From outside your comfort zone
-* use #ScreenshotSaturday, #MadeWithUnity, #UE4, #MadeWithBlender, #CyclesRenderingEngine, hashtags
-  * People actually see these posts, use them wisely
+ * From Most Intresting
+ * PRACTICE PRACTICE PRACTICE
+  * Watch speed*, sculpts, model, paint, draw, etc
+  * Get out from outside your comfort zone
+* Use #ScreenshotSaturday, #MadeWithUnity, #UE4, #MadeWithBlender, #AutodeskMaya hashtags
+ * People actually see these posts, use them wisely
 * Use Trello, Git, Blackboard, and other tools, not just notes on paper.
+* Surround yourself with people who know more than you, and learn from them
+* Always try to ask for advice or discuss
+* Read books, use them, learn their pattern, and ultimately out-best the book
 
-Please feel free to add, share c: Hope it helps, I *WILL* be updating this every so often. might make an awesome list (look above on the awesome github links) - Hope you have a good day/night.
+Please Share and Review the list and it’s contents. If you find something interesting or useful, please suggest, this list is always growing and I hope to make it bigger and far more updated. I hope you find something useful for you or a friend.
