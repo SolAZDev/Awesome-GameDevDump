@@ -1,7 +1,8 @@
 Here’s a list of things I find really useful, be it for learning or sharpening my skills, and inspiring to improve each day. 
 
-###Youtube And GDC Documentaries
-* 5 Problems Developing Talent -https://www.youtube.com/watch?v=VlpKKo-_cp0
+### Youtube And GDC Documentaries
+* 5 Problems Developing Talent -https://www.youtube.com/watch?v=VlpKKo-cp0
+* 30 Things I hate about your Game Pitch - https://www.youtube.com/watch?v=4LTtr45y7P0
 * How to quickly improve your art - https://www.youtube.com/watch?v=orgVs2csqbo
 * 5 Pillars & Pitfalls for Indie games - https://www.youtube.com/watch?v=gf8TfqD_fFk&t=1575s
 * Killer Portfolio or Portfolio Killer - https://www.youtube.com/watch?v=0RcYAwP3YJ8&t=17s
@@ -11,7 +12,7 @@ Here’s a list of things I find really useful, be it for learning or sharpening
 * Designing Awesome AI - https://www.youtube.com/watch?v=1xWg54mdQos
 * Intentionally Create Discomfort - https://www.youtube.com/watch?v=V3FE-QKh3Ps&t=14s
 * You DONT need a publisher - https://www.youtube.com/watch?v=mAI5W7Y5H28
-* AI Dissasters - https://www.youtube.com/watch?v=__5whYgSTV0
+* AI Dissasters - https://www.youtube.com/watch?v=5whYgSTV0
 * Possible Indiepocalypse - https://www.youtube.com/watch?v=r30CIneO534
 * Make your game funny - https://www.youtube.com/watch?v=pLbmZT70rtA
 * Improve your intellectual property - https://www.youtube.com/watch?v=WJalKJZqAMM
@@ -25,6 +26,12 @@ Here’s a list of things I find really useful, be it for learning or sharpening
 * Paper Prototype for Narrative Design - https://www.youtube.com/watch?v=taxcb_5lEI8
 * Build better Apocalypse - https://www.youtube.com/watch?v=wrB1fZ7v17c
 * Home of Expectation vs Reality - https://www.youtube.com/channel/UChj0w0duKtp7SDd_X9CNptw
+* IK Rig: Procedural Pose Animation - https://www.youtube.com/watch?v=KLjTU0yKS00
+* Marketing Indie Style - https://www.youtube.com/watch?v=fJHZFnOMAjw
+* Mad Skillz for Directing Dialogue - https://www.youtube.com/watch?v=ElcZw3wg--4
+* Creating Strong Video Game Characters - https://www.youtube.com/watch?v=4mgK2hL33Vw&t=299s
+* Low Poly Modeling: Style Through Economy - https://www.youtube.com/watch?v=H1oNuKChsdU&t=1588s
+
 
 ##General Links
 ###Reddit Specific
