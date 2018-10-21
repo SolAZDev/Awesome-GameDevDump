@@ -84,23 +84,23 @@ Here’s a list of things I find really useful, be it for learning or sharpening
 
 ### Extra Education
 * StackSkills
- * https://store.destructoid.com/sales/game-developer-bundle-3d-and-unity
- * https://store.destructoid.com/sales/pay-what-you-want-2016-zero-to-hero-game-dev-bundle
- * https://store.destructoid.com/sales/game-development-with-python-bundle
- * https://store.destructoid.com/sales/coding-for-kids-develop-games-learn-python
- * https://stackskills.com/courses/the-complete-real-time-web-and-game-development-course
- * https://store.destructoid.com/sales/3d-design-bundle
- * https://store.destructoid.com/sales/front-end-dev-bundle-html-css-js
- * https://store.destructoid.com/sales/adobe-web-and-graphic-design-master-package-135-course-bundle-2yrs
+  * https://store.destructoid.com/sales/game-developer-bundle-3d-and-unity
+  * https://store.destructoid.com/sales/pay-what-you-want-2016-zero-to-hero-game-dev-bundle
+  * https://store.destructoid.com/sales/game-development-with-python-bundle
+  * https://store.destructoid.com/sales/coding-for-kids-develop-games-learn-python
+  * https://stackskills.com/courses/the-complete-real-time-web-and-game-development-course
+  * https://store.destructoid.com/sales/3d-design-bundle
+  * https://store.destructoid.com/sales/front-end-dev-bundle-html-css-js
+  * https://store.destructoid.com/sales/adobe-web-and-graphic-design-master-package-135-course-bundle-2yrs
 * uDemy
- * https://www.udemy.com/3dmotive-learn-advanced-c-scripting-in-unity-5/
- * https://www.udemy.com/unity-5-interact-with-the-database-like-a-pro-php-mysql/
- * https://www.udemy.com/learn-complete-web-development-from-scratch/
- * https://www.udemy.com/learn-to-compose-video-game-music-in-fl-studio-in-1-hour/
- * https://www.udemy.com/vrcourse/
+  * https://www.udemy.com/3dmotive-learn-advanced-c-scripting-in-unity-5/
+  * https://www.udemy.com/unity-5-interact-with-the-database-like-a-pro-php-mysql/
+  * https://www.udemy.com/learn-complete-web-development-from-scratch/
+  * https://www.udemy.com/learn-to-compose-video-game-music-in-fl-studio-in-1-hour/
+  * https://www.udemy.com/vrcourse/
 * Other Sites
- * http://www.schoolism.com/
- * http://coursera.com/
+  * http://www.schoolism.com/
+  * http://coursera.com/
 
 ### Tips To Get Started
 * Explore one thing a time
